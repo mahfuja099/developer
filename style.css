@@ -1,0 +1,51 @@
+h1 {
+    font-size: 50px;
+}
+
+
+
+
+.red {
+    color: rgb(0, 145, 255);
+}
+
+body {
+
+    font-family: 'poppin', sans-serif;
+    margin: 0;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.ww {
+    width: 50%;
+    padding-left: 0%;
+}
+
+.ee {
+    width: 80%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-left: 5%;
+}
+
+.big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
